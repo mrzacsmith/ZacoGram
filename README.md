@@ -9,6 +9,7 @@ Things you may want to cover:
 
 * System dependencies
     * Devise
+    * Bootstrap for Sass
 
 * Configuration
 
