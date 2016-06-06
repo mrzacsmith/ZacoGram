@@ -1,28 +1,10 @@
 ## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Using Ruby on Rails to make a simple **instagram** site in preparation for my new app, currently pending: *Codename Jackal* 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-    * Devise
-    * Bootstrap for Sass
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+### Goals for this project
+    1. Write clean code that functions as desired
+    2. Continue my skills and understanding building of Ruby on Rails
+    3. Implement some of the ideas of Small Talk Best Practices
+    
 
